@@ -1,0 +1,9 @@
+server:
+  ssl:
+    enabled: false
+spring:
+  data:
+    redis:
+      host: rediscachedemon.redis.cache.windows.net
+      password: tkjYJGGJbGq1tyiIQ0SNuNczTuyQzLS9cAzCaFS9fEM=
+      port: 6379
